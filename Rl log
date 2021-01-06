@@ -1,0 +1,162 @@
+Log: Log file open, 06/01/2021 22:27:51
+Log: GPsyonixBuildID 201210.63594.304380
+Log: Command line: -AUTH_LOGIN=unused -AUTH_PASSWORD=5550cefb30cc483ba732425c2dce6f8a -AUTH_TYPE=exchangecode -epicapp=Sugar -epicenv=Prod -EpicPortal  -epicusername="RoyalA.exe" -epicuserid=09cb1cd5ba93458cac34b0d7950ca994 -epiclocale=en
+Init: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log:  ... running in INSTALLED mode
+Init: Language extension: INT
+Init: Language extension: INT
+DevConfig: GConfig::LoadFile associated file:  ..\..\TAGame\Config\TAUI.ini
+Init: Version: 201210.63594.304380
+Init: Compiled (64-bit): Dec 10 2020 18:07:55
+Init: Command line: -AUTH_LOGIN=unused -AUTH_PASSWORD=5550cefb30cc483ba732425c2dce6f8a -AUTH_TYPE=exchangecode -epicapp=Sugar -epicenv=Prod -EpicPortal  -epicusername="RoyalA.exe" -epicuserid=09cb1cd5ba93458cac34b0d7950ca994 -epiclocale=en
+Init: Base directory: C:\Program Files\Epic Games\rocketleague\Binaries\Win64\
+[0000.33] Log: Purging 7-day cache '..\..\TAGame\Logs'...
+[0000.33] Log: Purging 3-day cache '..\..\TAGame\Logs'...
+[0000.33] Init: Computer: Aayaan
+[0000.33] Init: User: Arghya
+[0000.33] Init: CPU Page size=4096, Processors=4
+[0000.33] Init: High frequency timer resolution =10.000000 MHz
+[0000.33] Init: Memory total: Physical=7.9GB (8GB approx) Pagefile=11.5GB Virtual=131072.0GB
+[0000.33] Init: Presizing for 135000 objects not considered by GC, pre-allocating 0 bytes.
+[0000.33] Init: Object subsystem initialized
+[0000.64] Log: Using feature set PrimeUpdate33
+[0000.66] DevOnline: EOSSDK-LogEOS: Updating Platform SDK Config, Time: 0.000000
+[0000.73] DevOnline: EOSSDK-LogEOSOverlay: Overlay loaded and initialized
+[0000.84] Log: Found D3D11 adapter 0: Intel(R) HD Graphics 620
+[0000.84] Log: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 4038MB of shared system memory
+[0000.85] Log: Found D3D11 adapter 1: Microsoft Basic Render Driver
+[0000.85] Log: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 4038MB of shared system memory
+[0000.86] Log: Shader platform (RHI): PC-D3D-SM5
+[0007.14] Log: ProductDatabase_TA::UpdateAvailableProducts  0.17 sec total.
+[0007.67] Log: 127638 objects as part of root set at end of initial load.
+[0007.67] Log: 0 out of 0 bytes used by permanent object pool.
+[0007.67] Log: Initializing Engine...
+[0007.67] Log: BuildID: -2030823119 from GPsyonixBuildID
+[0007.81] SystemSettings: Loading PC Settings
+[0009.18] Log: Running hardware survey...
+[0009.18] Log: OS: Microsoft Windows 10 Home  (19041)
+[0009.18] Log: WinSAT: 5.5 [8.8 CPU, 5.5 2D, 9.9 3D, 8.8 Mem, 8.2 Disk]
+[0009.18] Log: Processor: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz (Intel64 Family 6 Model 142 Stepping 9) 2 Cores, 4 Threads
+[0009.18] Log: Memory: 8.00GB
+[0009.18] Log: VideoController: Intel(R) HD Graphics 620 (27.20.100.9126)
+[0009.18] Log: Network Adapter: Realtek PCIe FE Family Controller
+[0009.18] Log: Network Adapter: VirtualBox Host-Only Ethernet Adapter
+[0009.18] Log: Network Adapter: LogMeIn Hamachi Virtual Ethernet Adapter
+[0009.18] Log: Disk C: 49.11GB free of 223.81GB
+[0009.18] Log: Disk D: 1.33GB free of 13.43GB
+[0009.18] Log: Sound Device: Realtek High Definition Audio
+[0009.18] Log: Sound Device: Intel(R) Display Audio
+[0009.18] Log: Sound Device: USB Audio Device
+[0009.18] Log: Sound Device: Steam Streaming Microphone
+[0009.18] Log: Sound Device: Steam Streaming Speakers
+[0009.18] Log: Sound Device: Voicemod Virtual Audio Device (WDM)
+[0009.18] Log: Hardware survey complete in 0.64 seconds.
+[0009.18] Log: Wwise(R) SDK Version 2019.1.1 Build 6977. Copyright (c) 2006-2012 Audiokinetic Inc. / All Rights Reserved.
+[0010.75] DevOnline: EOSSDK-LogEOSOverlay: Window subclass attached to 00000000000F0270
+[0010.75] DevOnline: EOSSDK-LogEOSOverlay: Creating overlay widget manager
+[0010.79] DevOnline: EOSSDK-LogEOSOverlay: Launching render process
+[0010.81] DevOnline: EOSSDK-LogEOSOverlay: Overlay ready. Firing 1 OnReady handlers
+[0010.82] DevOnline: Created named interface (RecentPlayersList) of type (Engine.OnlineRecentPlayersList)
+[0010.82] ScriptLog: PsyNet using environment DBE_Production Prod
+[0010.83] PsyNet: PsyNetConnection_X_0 disabled OSCS_ServiceUnavailable
+[0010.83] PsyNetStaticData: HandleCacheExpired
+[0010.83] PsyNetStaticData: HandleGetURL URL=https://config.psynet.gg/v2/Config/BattleCars/-2030823119/Prod/Epic/INT/
+[0010.83] DevOnline: WebRequest_X_0 SEND: https://config.psynet.gg/v2/Config/BattleCars/-2030823119/Prod/Epic/INT/ 
+[0011.00] DevOnline: WebRequest_X_0 RECV: 304 
+[0011.00] PsyNetStaticData: HandleDataChanged
+[0011.00] Log: FJsonStructReader - attempting to overwrite object property 'Class' for struct PresetMutators_X.
+[0011.00] Log: FJsonStructReader - attempting to overwrite object property 'Class' for struct PresetMutators_X.
+[0011.00] Log: FJsonStructReader - attempting to overwrite object property 'Class' for struct PresetMutators_X.
+[0011.00] Log: FJsonStructReader - attempting to overwrite object property 'Class' for struct PresetMutators_X.
+[0011.00] Log: FJsonStructReader - attempting to overwrite object property 'Class' for struct PresetMutators_X.
+[0011.01] ScriptWarning: ScriptWarning, Assertion failed, line 27
+	ContentConfig_TA Transient.Untitled_0.ContentConfig
+	Function ProjectX.ContentConfig_X:Apply:0155
+Script call stack:
+	Function ProjectX.OnlineConfigDispatcher_X:ApplyConfigObject
+	Function TAGame.ContentConfig_TA:Apply
+	Function ProjectX.ContentConfig_X:Apply
+
+[0011.01] ScriptWarning: ScriptWarning, Assertion failed, line 27
+	ContentConfig_TA Transient.Untitled_0.ContentConfig
+	Function ProjectX.ContentConfig_X:Apply:0155
+Script call stack:
+	Function ProjectX.OnlineConfigDispatcher_X:ApplyConfigObject
+	Function TAGame.ContentConfig_TA:Apply
+	Function ProjectX.ContentConfig_X:Apply
+
+[0011.35] Log: ProductDatabase_TA::UpdateAvailableProducts  0.33 sec total.
+[0011.35] PsyNet: PsyNetConnection_X_0 enabled
+[0011.37] PsyNetStaticData: UpdateCacheTimerEnabled CacheTimer.bEnabled=True
+[0011.40] Auth: OnlinePlayerAuthentication_TA_0 None Unknown|0|0 SetAuthLoginError [Error Type=OSCS_NotConnected Code=-1 Message=]
+[0011.40] Auth: OnlinePlayerAuthentication_TA_0 None Unknown|0|0 Logout
+[0011.40] PsyNet: PsyNetConnection_X_1 disabled OSCS_NotConnected
+[0011.40] Auth: OnlinePlayerAuthentication_TA_0 LoggedOut Unknown|0|0 HandleConnectionChanged
+[0011.40] Auth: OnlinePlayerAuthentication_TA_0 LoggedOut Unknown|0|0 UpdateLoginState
+[0011.40] Auth: OnlinePlayerAuthentication_TA_0 LoggedOut Unknown|0|0 SetAuthLoginError [Error Type=OSCS_NotConnected Code=-1 Message=]
+[0011.40] Auth: OnlinePlayerAuthentication_TA_0 LoggedOut Unknown|0|0 Logout
+[0011.40] Auth: OnlinePlayerAuthentication_TA_0 LoggedOut Unknown|0|0 UpdateLoginState AuthLoginError=[Error Type=OSCS_NotConnected Code=-1 Message=]
+[0011.40] SaveGame: Load Player.ControllerId=0 SaveFileName=..\..\TAGame\SaveDataEpic\DBE_Production\09cb1cd5ba93458cac34b0d7950ca994.save
+[0011.41] DevNet: Browse: MENU_Main_p
+[0011.42] Log: LoadMap: MENU_Main_p
+[0011.46] Log: Fully load package: ..\..\TAGame\CookedPCConsole\gameinfo_gfxmenu_SF.upk
+[0011.48] Log: Fully load package: ..\..\TAGame\CookedPCConsole\gfxsounds_mainmenu_SF.upk
+[0011.48] Log: Fully load package: ..\..\TAGame\CookedPCConsole\gfx_startmenu_SF.upk
+[0011.60] Log: Fully load package: ..\..\TAGame\CookedPCConsole\gfx_mainmenu_SF.upk
+[0011.71] Log: Game class is 'GameInfo_GFxMenu_TA'
+[0011.77] Log: *** WARNING - PATHS MAY NOT BE VALID ***
+[0011.77] Log: Bringing World MENU_Main_p.TheWorld up for play (0) at 2021.01.06-22.28.03
+[0011.77] Log: Bringing up level for play took: 0.046184
+[0012.36] DevGFxUIWarning: Scale9Grid for resource=290 has negative width -2.050000
+[0012.64] Log: ########### Finished loading level: 1.225284 seconds
+[0012.77] Log: Flushing async loaders.
+[0013.36] Log: Flushed async loaders.
+[0013.36] Log: Initializing Engine Completed
+[0013.36] Log: >>>>>>>>>>>>>> Initial startup: 13.36s <<<<<<<<<<<<<<<
+[0013.37] DevOnline: EOSSDK-LogEOSOverlay: Tick thread starting...
+[0013.37] DevOnline: EOSSDK-LogEOS: Large tick time detected 12.6215
+[0013.39] DevOnline: WebRequest_X_1 SEND: https://rl-cdn.psyonix.com/ChallengeBanners/FF_Challenge_Event_Screen_3.jpg 
+[0013.39] DevOnline: WebRequest_X_2 SEND: https://rl-cdn.psyonix.com/XPIcons/XP_1.png 
+[0013.39] DevOnline: WebRequest_X_3 SEND: https://rl-cdn.psyonix.com/XPIcons/XP_2.png 
+[0013.39] DevOnline: WebRequest_X_4 SEND: https://rl-cdn.psyonix.com/XPIcons/XP_3.png 
+[0013.39] DevOnline: WebRequest_X_5 SEND: https://rl-cdn.psyonix.com/XPIcons/XP_4.png 
+[0013.39] DevOnline: WebRequest_X_6 SEND: https://rl-cdn.psyonix.com/Playlists/Images/rl_mode_beachball_1.png 
+[0013.40] DevOnline: WebRequest_X_7 SEND: https://rl-cdn.psyonix.com/Playlists/Images/rl_mode_beachball_2.png 
+[0013.40] DevOnline: WebRequest_X_8 SEND: https://rl-cdn.psyonix.com/Playlists/Images/rl_mode_spike_rush_1.png 
+[0013.41] DevOnline: WebRequest_X_9 SEND: https://rl-cdn.psyonix.com/Playlists/Images/rl_mode_spike_rush_2.png 
+[0013.41] DevOnline: WebRequest_X_10 SEND: https://rl-cdn.psyonix.com/Playlists/Images/rl_mode_heatseeker_1.png 
+[0013.42] DevOnline: WebRequest_X_11 SEND: https://rl-cdn.psyonix.com/Playlists/Images/rl_mode_heatseeker_2.png 
+[0013.42] DevOnline: WebRequest_X_12 SEND: https://rl-cdn.psyonix.com/Playlists/Images/rl_mode_dropshot_rumble_1.png 
+[0013.42] DevOnline: WebRequest_X_13 SEND: https://rl-cdn.psyonix.com/Playlists/Images/rl_mode_dropshot_rumble_2.png 
+[0013.43] DevOnline: WebRequest_X_14 SEND: https://rl-cdn.psyonix.com/Playlists/Images/rl_mode_boomer_ball_1.png 
+[0013.44] DevOnline: WebRequest_X_15 SEND: https://rl-cdn.psyonix.com/Playlists/Images/rl_mode_boomer_ball_2.png 
+[0013.44] DevOnline: WebRequest_X_16 SEND: https://rl-cdn.psyonix.com/Playlists/Images/Playlist_SnowDayThrowback_Colored.png 
+[0013.45] DevOnline: WebRequest_X_17 SEND: https://rl-cdn.psyonix.com/Playlists/Images/Playlist_SnowDayThrowback_BW.png 
+[0013.45] DevOnline: WebRequest_X_18 SEND: https://rl-cdn.psyonix.com/Blog/Production/Epic/INT.JSON 
+[0013.45] DevOnline: WebRequest_X_19 SEND: https://rl-cdn.psyonix.com/ESports/Prod/Events.json 
+[0013.47] SaveGame: HandleDataLoaded Result.Code=BasicLoadResult_Success
+[0013.47] ScriptLog: NetworkSave_TA_0 ApplySettings ReplicationRate=60 NetSpeed=15000 InputRate=60
+[0013.47] SaveVersion: SaveDataVersions_TA::Update SaveDataVersion_KeyConversion -> SaveDataVersion_KeyConversion
+[0013.71] SaveData: Profile_TA_0 OnLoaded LocalID=0
+[0013.71] SaveVersion: ProfileVersions_TA::Update ProfileVersion_CarColors2 -> ProfileVersion_CarColors2
+[0013.71] SaveData: Profile_TA_1 OnLoaded LocalID=1
+[0013.71] SaveVersion: ProfileVersions_TA::Update ProfileVersion_CarColors2 -> ProfileVersion_CarColors2
+[0013.71] ScriptLog: GetDLCProducts, UnlockedDLCList=
+[0014.10] ScriptLog: GetDLCProducts, UnlockedDLCList=
+[0014.11] SaveGame: LocalPlayer_TA_0 HandleSaveDataLoaded 
+[0014.97] DevGFxUIWarning: Scale9Grid for resource=290 has negative width -2.050000
+[0015.05] Log: Flushing async loaders.
+[0015.34] Log: Flushed async loaders.
+[0015.60] NetworkNext: Client disabled
+[0015.61] Log: Found controller by Product Guid
+[0015.63] DevOnline: EOSSDK-LogEOSOverlay: Window subclass attached to 00000000000403B6
+[0015.63] DevOnline: EOSSDK-LogEOSOverlay: Detaching window subclass from 00000000000403B6
+[0019.86] DevOnline: EOSSDK-LogEOS: Large tick time detected 4.2276
+[0019.86] DevOnline: EOSSDK-LogEOS: SDK Config Platform Update Request Successful, Time: 14.887642
+[0019.86] DevOnline: EOSSDK-LogEOSAnalytics: Start Session (User: ...)
+[0019.86] DevOnline: EOSSDK-LogEOSAnalytics: Record Event: Overlay.OverlayLoaded <Redacted>
+[0019.86] DevOnline: EOSSDK-LogEOSAnalytics: Record Event: Overlay.ClientApi.ObserveBrowserStatus <Redacted>
+[0019.86] DevOnline: EOSSDK-LogEOSAnalytics: Record Event: Overlay.ClientApi.RegisterKeyListener <Redacted>
+[0019.86] DevOnline: EOSSDK-LogEOSAnalytics: Record Event: Overlay.GraphicsDeviceCreated <Redacted>
+[0019.86] DevOnline: EOSSDK-LogEOSAnalytics: Record Event: Overlay.GraphicsDeviceCreated <Redacted>
+[0019.86] DevOnli
