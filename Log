@@ -1,0 +1,871 @@
+[18:05:34] C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod
+[18:05:34] Creating CVarmanager
+[18:05:34] Creating console
+[18:05:34] Created console
+[18:05:34] Initialized logging
+[18:05:34] Running BakkesMod from Jan  6 2021 13:07:31 [136]
+[18:05:34] the BakkesmodPath is: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod
+[18:05:34] Checking for symlink
+[18:05:34] Requesting https://config.bakkesmod.com/static/startupconfig.json
+[18:05:34] Incoming json: {"config":{"BakkesMod":true,"EgsEnabled":true,"EgsEnabled_beta":true,"RankShowMod":true,"RankLogMod":true,"SyncInterval":300.0,"EnableQueueMod":true,"DisregardPlacements":true},"versions":{"110":{"steam":[5244119]}, "119":{"steam":[5524195,5559293]}, "120":{"steam":[5560047]}, "121":{"steam":[5560047]}, "122":{"steam":[5597994]}, "123":{"steam":[5608847]},"124":{"steam":[5663619,5774350,5844912], "egs_beta":["201009.60705.295428"]}, "125":{"steam":[5663619,5774350,5844912], "egs":["201110.2187.299191"]}, "126":{"steam":[5663619,5774350,5844912], "egs":["201110.2187.299191"]}, "127":{"steam":[5663619,5774350,5844912], "egs":["201110.2187.299191"]}, "128":{"steam":[5883101], "egs":["201125.53510.302095"]}, "130":{"steam":[5973866], "egs":["201210.63594.304380"]}, "131":{"steam":[5973866], "egs":["201210.63594.304380"]}, "132":{"steam":[5973866], "egs":["201210.63594.304380"]}, "133":{"steam":[5973866], "egs":["201210.63594.304380"]}, "134":{"steam":[5973866], "egs":["201210.63594.304380"]}, "135":{"steam":[5973866], "egs":["201210.63594.304380"]}, "136":{"steam":[5973866], "egs":["201210.63594.304380"]}}, "allowed": "V1wBXQNWBw4EAgNXUQUHClAAUVFUVQdSXABVBldRVgZXCVtRUVEMBgFfUwAAVl5SWlMAUVVSBQINWlVRAQIEVwYJCwADBwtTVQsBAQBQD1NaVwcGAgVXUgACUAtUVlFSUFwAUQNWUwJeVgcHAFYCCwMFVQsAUlBQVllRDAENAwVXUlABVlNTUV1UBlIAAwdcWFYBCgVUUQNRDVQCVQkFAgEFBVFUBAQBAAMLBAAJUV0BXlEBU1QGAVBXUg9QCAoHU1QHUwcEAAcAVQoHAA4FCQAAVVMDUwZXUANXWAdaDAAABFdQUFRVUFEABgUAU1FVAQlRU1FWBlQKVlNWUVJXC1UHAw4BXVUDAQQMUwAFB1xYAQdUVlFVUF8DBg9XAVtaXFFQAVZaU1MAUwkHAAQBCVhSVQUCBFEHAgdSDgRVXAEJA1ULVldcU1NQUVMAVwADAANRBlEDU1RcAVZUCQcBAAdRA1NRA11SVlNUVAAFUwoBAFYBU1IAUA4CB1YLVVVRVlYCVQNUVQNSCgRTAA4DXAFRVAVeBwFSBlFUVgZWBAVRVANXUwYCVlBdBlIAWlgHAVMCU1xWUQYCWAJUBgMMBw==","plugins": {"broken": ["branksdeck","branksdeck.dll","challengesplugin", "challengesplugin.dll", "inputlagexperiment", "inputlagexperiment.dll", "camerapresetsplugin", "camerapresetsplugin.dll", "themeeditor", "themeeditor.dll", "commandexecutor", "commandexecutor.dll", "ballpredictionplugin", "ballpredictionplugin.dll"]}}
+
+[18:05:34] Got successful result!
+[18:05:34] GetPsyBuildID exists!
+[18:05:34] Got psy build id: 201210.63594.304380
+[18:05:34] Enabled!
+[18:05:34] Found game at 0x7ff6adbd0000
+[18:05:34] Injector version 28
+[18:05:34] Injection mode 0
+[18:05:34] BakkesMod initialized
+[18:05:44] Performing one time config retrieval
+[18:05:44] Finding engine hook stores
+[18:05:44] Found game at 0x7ff6adbd0000
+[18:05:44] Requesting https://config.bakkesmod.com/static/onetime.json
+[18:05:44] Incoming json: {
+   "patrons":
+   [
+	"_rice_salad","Abom","albeertojiimenezz","almostkorean","Asoz","Bananas","barrymicokener","ben","boiwithkoi","Brick","bunnypuppy","Butthead","camel","Carhill","ChefBezos","CinderBlock","CMYK","cubedF","DaftPenguin","Dbakkz","Deano_Swegg","DesertDwarf","ditka22","DJSwerve","dmarte","DukeOfChutney","Dyeh4rd18","Dylan","Erid","Erisian","expendis","fabianvf","Fluzzer","French1000Island","Geggatt04","gezaarr","greenk","hiffer","Hoodyhooo","Huntr","Hysteria","iwantedjusttom","J.","jamdox","JordanLeGamer666","Keeyai","krissy","KroniK","Leaky Flesh","Leth","Martinn","marzipuzzadipubei[[[","mathers","Melly","micool","MrJokerer","nexian","pendergrassrock","PenguinTD","pgm18smith6285","Querkzz","Ramon","Refactor","Riftie","RJsaurus","Rocci","Shibby","SleepyMode","Sparrowhawk","Spewbert","Spork","Stanbroek","Sudden","sunless","TheSmite","TheUnknownn","Tiggythetiger","tooth","Trigga","ungrim97","Weston Hawk", "Yanni^^ <3"   ],
+   "messages":
+   {
+        "Patreon": "Thanks to these wonderful people for their support on our patreon! If you wish to become a backer check out patreon.com/bakkesmod.\nIf you're a patron but not on this list, make sure you're in our discord (bakk.es/discord) and have linked your patreon!"
+   },
+   "verification": "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"   
+}
+[18:05:44] Got successful result!
+[18:05:44] Found engine hook stores
+[18:05:44] Creating pluginmanager
+[18:05:44] Succesfully loaded PluginSDK.dll
+[18:05:44] PluginSDK_Init returns 1337
+[18:05:44] 1
+[18:05:44] 2
+[18:05:44] 3
+[18:05:44] 4
+[18:05:45] Registering viewportmod
+[18:05:45] [GameViewportMod] Creating mod GameViewportMod
+[18:05:45] [GameViewportMod] Registered with ID 6
+[18:05:45] [bakkesmod] Initializing viewportmod
+[18:05:45] [GameViewportMod] TEST
+[18:05:45] [bakkesmod] Viewportmod initialized
+[18:05:45] [FreeplayMod] Creating mod FreeplayMod
+[18:05:45] [FreeplayMod] Registered with ID 12
+[18:05:45] [CustomTrainingMisc] Creating mod CustomTrainingMisc
+[18:05:45] [CustomTrainingMisc] Registered with ID 13
+[18:05:45] [CustomTrainingVariance] Creating mod CustomTrainingVariance
+[18:05:45] [CustomTrainingVariance] Registered with ID 14
+[18:05:45] [CustomTrainingNavigation] Creating mod CustomTrainingNavigation
+[18:05:45] [CustomTrainingNavigation] Registered with ID 15
+[18:05:45] [CustomTrainingGoalBlocker] Creating mod CustomTrainingGoalBlocker
+[18:05:45] [CustomTrainingGoalBlocker] Registered with ID 16
+[18:05:45] [AuthorativeSoccarMod] Creating mod AuthorativeSoccarMod
+[18:05:45] [AuthorativeSoccarMod] Registered with ID 17
+[18:05:45] [PlayerControllerMod] Creating mod PlayerControllerMod
+[18:05:45] [PlayerControllerMod] Registered with ID 18
+[18:05:45] [ReplayMod] Creating mod ReplayMod
+[18:05:45] [ReplayMod] Registered with ID 19
+[18:05:45] [AdminMod] Creating mod AdminMod
+[18:05:45] [AdminMod] Registered with ID 20
+[18:05:45] [RankTrackMod] Creating mod RankTrackMod
+[18:05:45] [RankTrackMod] Registered with ID 21
+[18:05:45] [RankShowMod] Creating mod RankShowMod
+[18:05:45] [RankShowMod] Registered with ID 22
+[18:05:45] [AutoGGMod] Creating mod AutoGGMod
+[18:05:45] [AutoGGMod] Registered with ID 23
+[18:05:45] [AnonymizerMod] Creating mod AnonymizerMod
+[18:05:45] [AnonymizerMod] Registered with ID 24
+[18:05:45] [DecalMod] Creating mod DecalMod
+[18:05:45] [DecalMod] Registered with ID 25
+[18:05:45] [LanMod] Creating mod LanMod
+[18:05:45] [LanMod] Registered with ID 26
+[18:05:45] [GameMod] Creating mod GameMod
+[18:05:45] [GameMod] Registered with ID 27
+[18:05:45] [POVReplayMod] Creating mod POVReplayMod
+[18:05:45] [POVReplayMod] Registered with ID 28
+[18:05:45] [CameraPresetMod] Creating mod CameraPresetMod
+[18:05:45] [CameraPresetMod] Registered with ID 29
+[18:05:45] [PermissionManager] Creating mod PermissionManager
+[18:05:45] [PermissionManager] Registered with ID 30
+[18:05:45] [SoccarCvars] Creating mod SoccarCvars
+[18:05:45] [SoccarCvars] Registered with ID 31
+[18:05:45] [OnlineGameMod] Creating mod OnlineGameMod
+[18:05:45] [OnlineGameMod] Registered with ID 32
+[18:05:45] [RandomMapMod] Creating mod RandomMapMod
+[18:05:45] [RandomMapMod] Registered with ID 33
+[18:05:45] [InventoryMod] Creating mod InventoryMod
+[18:05:45] [InventoryMod] Registered with ID 34
+[18:05:45] [WorkshopMod] Creating mod WorkshopMod
+[18:05:45] [WorkshopMod] Registered with ID 35
+[18:05:45] [ReplayFXMod] Creating mod ReplayFXMod
+[18:05:45] [ReplayFXMod] Registered with ID 36
+[18:05:45] [AutoQueueMod] Creating mod AutoQueueMod
+[18:05:45] [AutoQueueMod] Registered with ID 37
+[18:05:45] [QueueMod] Creating mod QueueMod
+[18:05:45] [QueueMod] Registered with ID 38
+[18:05:45] [bakkesmod] Registering initialization timeout
+[18:05:45] [bakkesmod] Registered initialization timeout
+[18:05:45] [bakkesmod] Going to hook DX
+[18:05:45] [bakkesmod] Hooked DX
+[18:05:45] [bakkesmod] ImGui init
+[18:05:45] [bakkesmod] g_hWnd is 132516
+[18:05:45] [bakkesmod] Creating factory
+[18:05:45] [bakkesmod] factory created
+[18:05:45] [bakkesmod] Creating swapchain, windowed = true
+[18:05:45] [bakkesmod] Result: 0
+[18:05:45] [bakkesmod] Created!!
+[18:05:50] [bakkesmod] wndproc hooked
+[18:05:51] [bakkesmod] Initializing console
+[18:05:51] [bakkesmod] Initialized console
+[18:05:51] [bakkesmod] Initializing AdminMod
+[18:05:51] [bakkesmod] Initialized AdminMod
+[18:05:51] [bakkesmod] Initializing AnonymizerMod
+[18:05:51] [bakkesmod] Initialized AnonymizerMod
+[18:05:51] [bakkesmod] Initializing AuthorativeSoccarMod
+[18:05:51] [bakkesmod] Initialized AuthorativeSoccarMod
+[18:05:51] [bakkesmod] Initializing AutoGGMod
+[18:05:51] [bakkesmod] Initialized AutoGGMod
+[18:05:51] [bakkesmod] Initializing AutoQueueMod
+[18:05:51] [bakkesmod] Initialized AutoQueueMod
+[18:05:51] [bakkesmod] Initializing CameraPresetMod
+[18:05:51] [bakkesmod] Initialized CameraPresetMod
+[18:05:51] [bakkesmod] Initializing CustomTrainingGoalBlocker
+[18:05:51] [bakkesmod] Initialized CustomTrainingGoalBlocker
+[18:05:51] [bakkesmod] Initializing CustomTrainingMisc
+[18:05:51] [bakkesmod] Initialized CustomTrainingMisc
+[18:05:51] [bakkesmod] Initializing CustomTrainingNavigation
+[18:05:51] [bakkesmod] Initialized CustomTrainingNavigation
+[18:05:51] [bakkesmod] Initializing CustomTrainingVariance
+[18:05:51] [bakkesmod] Initialized CustomTrainingVariance
+[18:05:51] [bakkesmod] Initializing DecalMod
+[18:05:51] [bakkesmod] defaultOnlineProduct is -1603406272
+[18:05:51] [bakkesmod] Initialized DecalMod
+[18:05:51] [bakkesmod] Initializing FreeplayMod
+[18:05:51] [bakkesmod] Initialized FreeplayMod
+[18:05:51] [bakkesmod] Initializing GameMod
+[18:05:51] [bakkesmod] Initialized GameMod
+[18:05:51] [bakkesmod] Initializing GameViewportMod
+[18:05:51] [bakkesmod] Initialized GameViewportMod
+[18:05:51] [bakkesmod] Initializing InventoryMod
+[18:05:51] [bakkesmod] Initialized InventoryMod
+[18:05:51] [bakkesmod] Initializing LanMod
+[18:05:51] [bakkesmod] Initialized LanMod
+[18:05:51] [bakkesmod] Initializing OnlineGameMod
+[18:05:51] [bakkesmod] Initialized OnlineGameMod
+[18:05:51] [bakkesmod] Initializing POVReplayMod
+[18:05:51] [bakkesmod] Initialized POVReplayMod
+[18:05:51] [bakkesmod] Initializing PermissionManager
+[18:05:51] [bakkesmod] Initialized PermissionManager
+[18:05:51] [bakkesmod] Initializing PlayerControllerMod
+[18:05:51] [bakkesmod] Initialized PlayerControllerMod
+[18:05:51] [bakkesmod] Initializing QueueMod
+[18:05:51] [bakkesmod] reading current queue config
+[18:05:51] [bakkesmod] Initialized QueueMod
+[18:05:51] [bakkesmod] Initializing RandomMapMod
+[18:05:51] [bakkesmod] Initialized RandomMapMod
+[18:05:51] [bakkesmod] Initializing RankShowMod
+[18:05:51] [bakkesmod] Initialized RankShowMod
+[18:05:51] [bakkesmod] Initializing RankTrackMod
+[18:05:51] [RankTrackMod] Resync local MMR triggered
+[18:05:51] [bakkesmod] Initialized RankTrackMod
+[18:05:51] [bakkesmod] Initializing ReplayFXMod
+[18:05:51] [bakkesmod] Initialized ReplayFXMod
+[18:05:51] [bakkesmod] Initializing ReplayMod
+[18:05:51] [bakkesmod] Initialized ReplayMod
+[18:05:51] [bakkesmod] Initializing SoccarCvars
+[18:05:51] [bakkesmod] Initialized SoccarCvars
+[18:05:51] [bakkesmod] Initializing WorkshopMod
+[18:05:51] [bakkesmod] Initialized WorkshopMod
+[18:05:51] [bakkesmod] > plugin load defenderplugin
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/defenderplugin.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: K:\bakkesmod\BakkesMod2-Plugins\DefenderPlugin\defenderplugin.cpp
+[18:05:51] [bakkesmod] Class Name: DefenderPlugin
+[18:05:51] [bakkesmod] Plugin Name: Defender plugin
+[18:05:51] [bakkesmod] Game events: 1
+[18:05:51] [bakkesmod] Plugin Version: 0.1
+[18:05:51] [bakkesmod] Plugin defenderplugin loaded successfully.
+[18:05:51] [bakkesmod] > plugin load dribbleplugin
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/dribbleplugin.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: K:\bakkesmod\BakkesMod2-Plugins\DribblePlugin\DribblePlugin.cpp
+[18:05:51] [bakkesmod] Class Name: DribblePlugin
+[18:05:51] [bakkesmod] Plugin Name: Dribble plugin
+[18:05:51] [bakkesmod] Game events: 1
+[18:05:51] [bakkesmod] Plugin Version: 0.1
+[18:05:51] [bakkesmod] Plugin dribbleplugin loaded successfully.
+[18:05:51] [bakkesmod] > plugin load reboundplugin
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/reboundplugin.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: K:\bakkesmod\BakkesMod2-Plugins\ReboundPlugin\ReboundPlugin.cpp
+[18:05:51] [bakkesmod] Class Name: ReboundPlugin
+[18:05:51] [bakkesmod] Plugin Name: Rebound plugin
+[18:05:51] [bakkesmod] Game events: 1
+[18:05:51] [bakkesmod] Plugin Version: 0.1
+[18:05:51] [bakkesmod] Plugin reboundplugin loaded successfully.
+[18:05:51] [bakkesmod] > plugin load redirectplugin
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/redirectplugin.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: K:\bakkesmod\BakkesMod2-Plugins\RedirectPlugin\redirectplugin.cpp
+[18:05:51] [bakkesmod] Class Name: RedirectPlugin
+[18:05:51] [bakkesmod] Plugin Name: Redirect plugin
+[18:05:51] [bakkesmod] Game events: 1
+[18:05:51] [bakkesmod] Plugin Version: 0.2
+[18:05:51] [bakkesmod] Plugin redirectplugin loaded successfully.
+[18:05:51] [bakkesmod] > plugin load trainingplugin
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/trainingplugin.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: K:\bakkesmod\BakkesMod2-Plugins\TrainingPlugin\TrainingPlugin.cpp
+[18:05:51] [bakkesmod] Class Name: TrainingPlugin
+[18:05:51] [bakkesmod] Plugin Name: Training plugin
+[18:05:51] [bakkesmod] Game events: 3
+[18:05:51] [bakkesmod] Plugin Version: 0.1.1
+[18:05:51] [bakkesmod] Plugin trainingplugin loaded successfully.
+[18:05:51] [bakkesmod] > plugin load rconplugin
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/rconplugin.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: K:\bakkesmod\BakkesMod2-Plugins\RCONPlugin\RCONPlugin.cpp
+[18:05:51] [bakkesmod] Class Name: RCONPlugin
+[18:05:51] [bakkesmod] Plugin Name: RCON plugin
+[18:05:51] [bakkesmod] Game events: 32
+[18:05:51] [bakkesmod] Plugin Version: 0.2
+[18:05:51] [bakkesmod] Loading plugin (threaded)
+[18:05:51] [bakkesmod] Plugin rconplugin loaded successfully.
+[18:05:51] [bakkesmod] > plugin load airdribbleplugin
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/airdribbleplugin.dll. 
+[18:05:51] [bakkesmod] > rcon_refresh_allowed
+[18:05:51] [bakkesmod] [class RCONPlugin] [RCON] Adding to allowlist: ws_inventory
+[18:05:51] [bakkesmod] [class RCONPlugin] [RCON] Adding to allowlist: sendback
+[18:05:51] [bakkesmod] [class RCONPlugin] [RCON] Adding to allowlist: rcon_password
+[18:05:51] [bakkesmod] [class RCONPlugin] [RCON] Adding to allowlist: plugin
+[18:05:51] [bakkesmod] [class RCONPlugin] [RCON] Adding to allowlist: cl_settings_refreshplugins
+[18:05:51] [bakkesmod] [class RCONPlugin] [RCON] Adding to allowlist: rcon_refresh_allowed
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: G:\C\source\repos\ThirdPartyPlugins\AirDribblePlugin\AirDribblePlugin.cpp
+[18:05:51] [bakkesmod] Class Name: AirDribblePlugin
+[18:05:51] [bakkesmod] Plugin Name: AirDribble plugin
+[18:05:51] [bakkesmod] Game events: 0
+[18:05:51] [bakkesmod] Plugin Version: 0.1
+[18:05:51] [bakkesmod] Plugin airdribbleplugin loaded successfully.
+[18:05:51] [bakkesmod] > plugin load workshopplugin
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/workshopplugin.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: K:\bakkesmod\BakkesMod2-Plugins\WorkshopPlugin\WorkshopPlugin.cpp
+[18:05:51] [bakkesmod] Class Name: WorkshopPlugin
+[18:05:51] [bakkesmod] Plugin Name: Workshop plugin
+[18:05:51] [bakkesmod] Game events: 19
+[18:05:51] [bakkesmod] Plugin Version: 0.1
+[18:05:51] [bakkesmod] Plugin workshopplugin loaded successfully.
+[18:05:51] [bakkesmod] > plugin load wallhitplugin
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/wallhitplugin.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: G:\C\source\repos\ThirdPartyPlugins\WallHitPlugin\WallHitPlugin.cpp
+[18:05:51] [bakkesmod] Class Name: WallHitPlugin
+[18:05:51] [bakkesmod] Plugin Name: WallHit plugin
+[18:05:51] [bakkesmod] Game events: 0
+[18:05:51] [bakkesmod] Plugin Version: 0.1
+[18:05:51] [bakkesmod] Plugin wallhitplugin loaded successfully.
+[18:05:51] [bakkesmod] > plugin load mechanicalplugin
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/mechanicalplugin.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: K:\bakkesmod\BakkesMod2-Plugins\MechanicalPlugin\mechanicalplugin.cpp
+[18:05:51] [bakkesmod] Class Name: MechanicalPlugin
+[18:05:51] [bakkesmod] Plugin Name: Mechanical training plugin
+[18:05:51] [bakkesmod] Game events: 1
+[18:05:51] [bakkesmod] Plugin Version: 0.1
+[18:05:51] [bakkesmod] Plugin mechanicalplugin loaded successfully.
+[18:05:51] [bakkesmod] > plugin load dollycamplugin2
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/dollycamplugin2.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: K:\bakkesmod\DollyCamPlugin2\DollyCamPlugin2\dollycamplugin.cpp
+[18:05:51] [bakkesmod] Class Name: DollyCamPlugin
+[18:05:51] [bakkesmod] Plugin Name: Dollycam plugin
+[18:05:51] [bakkesmod] Game events: 20
+[18:05:51] [bakkesmod] Plugin Version: 2
+[18:05:51] [bakkesmod] Plugin dollycamplugin2 loaded successfully.
+[18:05:51] [bakkesmod] > plugin load recoveryplugin
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/recoveryplugin.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: K:\bakkesmod\BakkesMod2-Plugins\RecoveryPlugin\RecoveryPlugin.cpp
+[18:05:51] [bakkesmod] Class Name: RecoveryPlugin
+[18:05:51] [bakkesmod] Plugin Name: Recovery plugin
+[18:05:51] [bakkesmod] Game events: 1
+[18:05:51] [bakkesmod] Plugin Version: 0.1
+[18:05:51] [bakkesmod] Plugin recoveryplugin loaded successfully.
+[18:05:51] [bakkesmod] > plugin load autoreplayuploader
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/autoreplayuploader.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: K:\bakkesmod\AutoReplayUploader\AutoReplayUploader\AutoReplayUploaderPlugin.cpp
+[18:05:51] [bakkesmod] Class Name: AutoReplayUploaderPlugin
+[18:05:51] [bakkesmod] Plugin Name: Auto replay uploader plugin
+[18:05:51] [bakkesmod] Game events: 0
+[18:05:51] [bakkesmod] Plugin Version: 0.2
+[18:05:51] [bakkesmod] Plugin autoreplayuploader loaded successfully.
+[18:05:51] [bakkesmod] > plugin load pluginmanager
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/pluginmanager.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: F:\Downloads\releases_comp\PluginManager\PluginManager\PluginManager.cpp
+[18:05:51] [bakkesmod] Class Name: PluginManager
+[18:05:51] [bakkesmod] Plugin Name: Plugin Manager
+[18:05:51] [bakkesmod] Game events: 0
+[18:05:51] [bakkesmod] Plugin Version: 2
+[18:05:51] [bakkesmod] [class PluginManager] Got unique id 0
+[18:05:51] [bakkesmod] [class PluginManager] Current Epic ID: Unknown|0|0
+[18:05:51] [bakkesmod] Plugin pluginmanager loaded successfully.
+[18:05:51] [bakkesmod] > plugin load aimbot
+[18:05:51] [bakkesmod] Unable to find file "C:\\Users\\Arghya\\AppData\\Roaming\\bakkesmod\\bakkesmod\\plugins/aimbot.dll". Check to see if it exists.
+[18:05:51] [bakkesmod] > plugin load cameracontrol
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/cameracontrol.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 73
+[18:05:51] [bakkesmod] File Name: f:\_youtube\04_extra_assets\game_extensions_for_production\cameracontrol\cameracontrol.cpp
+[18:05:51] [bakkesmod] Class Name: CameraControl
+[18:05:51] [bakkesmod] Plugin Name: Parent plugin for controlling player camera. Type "CamControl_" to view parameters
+[18:05:51] [bakkesmod] Game events: 1
+[18:05:51] [bakkesmod] Plugin Version: 1.0
+[18:05:51] [bakkesmod] Plugin cameracontrol loaded successfully.
+[18:05:51] [bakkesmod] > plugin load firstpersonplugin
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/firstpersonplugin.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: F:\_YouTube\04_Extra_Assets\Game_Extensions_for_Production\FirstPersonPlugin\FirstPersonPlugin.cpp
+[18:05:51] [bakkesmod] Class Name: FirstPersonPlugin
+[18:05:51] [bakkesmod] Plugin Name: First Person Plugin
+[18:05:51] [bakkesmod] Game events: 1
+[18:05:51] [bakkesmod] Plugin Version: 1.0
+[18:05:51] [bakkesmod] Plugin cameracontrol is already loaded, use plugin reload/unload instead!
+[18:05:51] [bakkesmod] Plugin firstpersonplugin loaded successfully.
+[18:05:51] [bakkesmod] > plugin load ballspeed
+[18:05:51] [bakkesmod] Unable to find file "C:\\Users\\Arghya\\AppData\\Roaming\\bakkesmod\\bakkesmod\\plugins/ballspeed.dll". Check to see if it exists.
+[18:05:51] [bakkesmod] > plugin load dribbletrainer
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/dribbletrainer.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: F:\_YouTube\04_Extra_Assets\Game_Extensions_for_Production\DribbleTrainer\DribbleTrainer\DribbleTrainer.cpp
+[18:05:51] [bakkesmod] Class Name: DribbleTrainer
+[18:05:51] [bakkesmod] Plugin Name: Freeplay training for dribbles, flicks, and catches
+[18:05:51] [bakkesmod] Game events: 1
+[18:05:51] [bakkesmod] Plugin Version: 1.0
+[18:05:51] [bakkesmod] Plugin dribbletrainer loaded successfully.
+[18:05:51] [bakkesmod] > plugin load rocketplugin
+[18:05:51] [bakkesmod] Trying LoadLibraryW
+[18:05:51] [bakkesmod] On file: C:\Users\Arghya\AppData\Roaming\bakkesmod\bakkesmod\plugins/rocketplugin.dll. 
+[18:05:51] [bakkesmod] Called LoadLibraryW 
+[18:05:51] [bakkesmod] Plugin Info: 
+[18:05:51] [bakkesmod] API Version: 95
+[18:05:51] [bakkesmod] File Name: E:\Games\Game Files\Rocket League Stuff\Modding\Bakkes\Plugins\Released\RocketPlugin\RocketPlugin_0_6_4\source\RocketPlugin.cpp
+[18:05:51] [bakkesmod] Class Name: RocketPlugin
+[18:05:51] [bakkesmod] Plugin Name: Rocket Plugin
+[18:05:51] [bakkesmod] Game events: 0
+[18:05:51] [bakkesmod] Plugin Version: 0.6.4.194
+[18:05:52] [bakkesmod] Plugin rocketplugin loaded successfully.
+[18:05:52] [bakkesmod] > plugin load acplugin
+[18:05:52] [bakkesmod] Unable to find file "C:\\Users\\Arghya\\AppData\\Roaming\\bakkesmod\\bakkesmod\\plugins/acplugin.dll". Check to see if it exists.
+[18:05:52] [bakkesmod] > //Warning: This file will automatically be rewritten, only make changes here when the mod is not running (or reexec the file manually)
+[18:05:52] [bakkesmod] > Aimbot_Enable "0"
+[18:05:52] [bakkesmod] cvar Aimbot_Enable does not exist?
+[18:05:52] [bakkesmod] > Aimbot_Help_Blue_Team "1"
+[18:05:52] [bakkesmod] cvar Aimbot_Help_Blue_Team does not exist?
+[18:05:52] [bakkesmod] > Aimbot_Help_Orange_Team "1"
+[18:05:52] [bakkesmod] cvar Aimbot_Help_Orange_Team does not exist?
+[18:05:52] [bakkesmod] > Aimbot_Hurt_Blue_Team "0"
+[18:05:52] [bakkesmod] cvar Aimbot_Hurt_Blue_Team does not exist?
+[18:05:52] [bakkesmod] > Aimbot_Hurt_Orange_Team "0"
+[18:05:52] [bakkesmod] cvar Aimbot_Hurt_Orange_Team does not exist?
+[18:05:52] [bakkesmod] > Aimbot_Strength "100"
+[18:05:52] [bakkesmod] cvar Aimbot_Strength does not exist?
+[18:05:52] [bakkesmod] > CamControl_Distance "NULL"
+[18:05:52] [bakkesmod] CamControl_Distance: 100 -> NULL
+[18:05:52] [bakkesmod] > CamControl_Enable "0"
+[18:05:52] [bakkesmod] CamControl_Enable: 0 -> 0
+[18:05:52] [bakkesmod] > CamControl_FOV "NULL"
+[18:05:52] [bakkesmod] CamControl_FOV: 90 -> NULL
+[18:05:52] [bakkesmod] > CamControl_Focus "NULL,NULL,NULL"
+[18:05:52] [bakkesmod] CamControl_Focus: 0,0,0 -> NULL,NULL,NULL
+[18:05:52] [bakkesmod] > CamControl_Rotation "NULL,NULL,NULL"
+[18:05:52] [bakkesmod] CamControl_Rotation: 0,0,0 -> NULL,NULL,NULL
+[18:05:52] [bakkesmod] > CamControl_Swivel_READONLY "0,0,0"
+[18:05:52] [bakkesmod] CamControl_Swivel_READONLY: 0,0,0 -> 0,0,0
+[18:05:52] [bakkesmod] > Dribble_AngularReduction "0.5"
+[18:05:52] [bakkesmod] Dribble_AngularReduction: 0.5 -> 0.5
+[18:05:52] [bakkesmod] > Dribble_BallFloorHeight "2"
+[18:05:52] [bakkesmod] Dribble_BallFloorHeight: 2 -> 2
+[18:05:52] [bakkesmod] > Dribble_BallMaxDistance "1250"
+[18:05:52] [bakkesmod] Dribble_BallMaxDistance: 1250 -> 1250
+[18:05:52] [bakkesmod] > Dribble_CatchAngle "(15, 75)"
+[18:05:52] [bakkesmod] Dribble_CatchAngle: (15, 75) -> (15, 75)
+[18:05:52] [bakkesmod] > Dribble_CatchPreparation "2"
+[18:05:52] [bakkesmod] Dribble_CatchPreparation: 2 -> 2
+[18:05:52] [bakkesmod] > Dribble_CatchSpeed "(1500, 3500)"
+[18:05:52] [bakkesmod] Dribble_CatchSpeed: (1500, 3500) -> (1500, 3500)
+[18:05:52] [bakkesmod] > Dribble_CatchSpread "100"
+[18:05:52] [bakkesmod] Dribble_CatchSpread: 100 -> 100
+[18:05:52] [bakkesmod] > Dribble_DebugMode "0"
+[18:05:52] [bakkesmod] Dribble_DebugMode: 0 -> 0
+[18:05:52] [bakkesmod] > Dribble_LogFlickSpeed "1"
+[18:05:52] [bakkesmod] Dribble_LogFlickSpeed: 1 -> 1
+[18:05:52] [bakkesmod] > Dribble_ShowFloorHeight "0"
+[18:05:52] [bakkesmod] Dribble_ShowFloorHeight: 0 -> 0
+[18:05:52] [bakkesmod] > Dribble_ShowSafeZone "0"
+[18:05:52] [bakkesmod] Dribble_ShowSafeZone: 1 -> 0
+[18:05:52] [bakkesmod] > Dribble_Show_Target_Location "1"
+[18:05:52] [bakkesmod] Dribble_Show_Target_Location: 1 -> 1
+[18:05:52] [bakkesmod] > Dribble_ToggleDribbleMode "0"
+[18:05:52] [bakkesmod] Dribble_ToggleDribbleMode: 0 -> 0
+[18:05:52] [bakkesmod] > Dribble_ToggleFlicksMode "0"
+[18:05:52] [bakkesmod] Dribble_ToggleFlicksMode: 0 -> 0
+[18:05:52] [bakkesmod] > FirstPerson_UseCustomBallCam "0"
+[18:05:52] [bakkesmod] FirstPerson_UseCustomBallCam: 1 -> 0
+[18:05:52] [bakkesmod] > acplugin_antennatexture_selectedtexture_blue "Default"
+[18:05:52] [bakkesmod] cvar acplugin_antennatexture_selectedtexture_blue does not exist?
+[18:05:52] [bakkesmod] > acplugin_antennatexture_selectedtexture_orange "Default"
+[18:05:52] [bakkesmod] cvar acplugin_antennatexture_selectedtexture_orange does not exist?
+[18:05:52] [bakkesmod] > acplugin_balltexture_selectedtexture "RLCS"
+[18:05:52] [bakkesmod] cvar acplugin_balltexture_selectedtexture does not exist?
+[18:05:52] [bakkesmod] > acplugin_carspawntimeout "0.1"
+[18:05:52] [bakkesmod] cvar acplugin_carspawntimeout does not exist?
+[18:05:52] [bakkesmod] > acplugin_decaltexture_selectedtexture_blue "Default"
+[18:05:52] [bakkesmod] cvar acplugin_decaltexture_selectedtexture_blue does not exist?
+[18:05:52] [bakkesmod] > acplugin_decaltexture_selectedtexture_orange "Default"
+[18:05:52] [bakkesmod] cvar acplugin_decaltexture_selectedtexture_orange does not exist?
+[18:05:52] [bakkesmod] > acplugin_goaltexture_colourmode "Match Car Colour"
+[18:05:52] [bakkesmod] cvar acplugin_goaltexture_colourmode does not exist?
+[18:05:52] [bakkesmod] > acplugin_goaltexture_colouroverride_b "1.0"
+[18:05:52] [bakkesmod] cvar acplugin_goaltexture_colouroverride_b does not exist?
+[18:05:52] [bakkesmod] > acplugin_goaltexture_colouroverride_g "1.0"
+[18:05:52] [bakkesmod] cvar acplugin_goaltexture_colouroverride_g does not exist?
+[18:05:52] [bakkesmod] > acplugin_goaltexture_colouroverride_r "1.0"
+[18:05:52] [bakkesmod] cvar acplugin_goaltexture_colouroverride_r does not exist?
+[18:05:52] [bakkesmod] > acplugin_goaltexture_selectedtexture "Default"
+[18:05:52] [bakkesmod] cvar acplugin_goaltexture_selectedtexture does not exist?
+[18:05:52] [bakkesmod] > acplugin_inputoverlay_flipcolumns "0"
+[18:05:52] [bakkesmod] cvar acplugin_inputoverlay_flipcolumns does not exist?
+[18:05:52] [bakkesmod] > acplugin_inputoverlay_iconscale "1.2"
+[18:05:52] [bakkesmod] cvar acplugin_inputoverlay_iconscale does not exist?
+[18:05:52] [bakkesmod] > acplugin_inputoverlay_location_x "0.05"
+[18:05:52] [bakkesmod] cvar acplugin_inputoverlay_location_x does not exist?
+[18:05:52] [bakkesmod] > acplugin_inputoverlay_location_y "0.9"
+[18:05:52] [bakkesmod] cvar acplugin_inputoverlay_location_y does not exist?
+[18:05:52] [bakkesmod] > acplugin_inputoverlay_maxicons "10"
+[18:05:52] [bakkesmod] cvar acplugin_inputoverlay_maxicons does not exist?
+[18:05:52] [bakkesmod] > acplugin_inputoverlay_reversedirection "1"
+[18:05:52] [bakkesmod] cvar acplugin_inputoverlay_reversedirection does not exist?
+[18:05:52] [bakkesmod] > acplugin_inputoverlay_shouldfade "0"
+[18:05:52] [bakkesmod] cvar acplugin_inputoverlay_shouldfade does not exist?
+[18:05:52] [bakkesmod] > acplugin_inputoverlay_showicons "0"
+[18:05:52] [bakkesmod] cvar acplugin_inputoverlay_showicons does not exist?
+[18:05:52] [bakkesmod] > acplugin_inputoverlay_trackalljoystickinputs "0"
+[18:05:52] [bakkesmod] cvar acplugin_inputoverlay_trackalljoystickinputs does not exist?
+[18:05:52] [bakkesmod] > acplugin_inputoverlay_usexboxbuttonicons "0"
+[18:05:52] [bakkesmod] cvar acplugin_inputoverlay_usexboxbuttonicons does not exist?
+[18:05:52] [bakkesmod] > acplugin_inputoverlay_verticalspacing "50"
+[18:05:52] [bakkesmod] cvar acplugin_inputoverlay_verticalspacing does not exist?
+[18:05:52] [bakkesmod] > acplugin_paintedalphaboost_blue_b "0.997965"
+[18:05:52] [bakkesmod] cvar acplugin_paintedalphaboost_blue_b does not exist?
+[18:05:52] [bakkesmod] > acplugin_paintedalphaboost_blue_g "0.059333"
+[18:05:52] [bakkesmod] cvar acplugin_paintedalphaboost_blue_g does not exist?
+[18:05:52] [bakkesmod] > acplugin_paintedalphaboost_blue_r "0.406704"
+[18:05:52] [bakkesmod] cvar acplugin_paintedalphaboost_blue_r does not exist?
+[18:05:52] [bakkesmod] > acplugin_paintedalphaboost_enabled "1"
+[18:05:52] [bakkesmod] cvar acplugin_paintedalphaboost_enabled does not exist?
+[18:05:52] [bakkesmod] > acplugin_paintedalphaboost_orange_b "0.990603"
+[18:05:52] [bakkesmod] cvar acplugin_paintedalphaboost_orange_b does not exist?
+[18:05:52] [bakkesmod] > acplugin_paintedalphaboost_orange_g "0.018895"
+[18:05:52] [bakkesmod] cvar acplugin_paintedalphaboost_orange_g does not exist?
+[18:05:52] [bakkesmod] > acplugin_paintedalphaboost_orange_r "0.436996"
+[18:05:52] [bakkesmod] cvar acplugin_paintedalphaboost_orange_r does not exist?
+[18:05:52] [bakkesmod] > acplugin_podiumplus_enabled "0"
+[18:05:52] [bakkesmod] cvar acplugin_podiumplus_enabled does not exist?
+[18:05:52] [bakkesmod] > acplugin_podiumplus_selectedexplosion "Fireworks"
+[18:05:52] [bakkesmod] cvar acplugin_podiumplus_selectedexplosion does not exist?
+[18:05:52] [bakkesmod] > acplugin_reactivewheels_brightnessmultiplier "20.000000"
+[18:05:52] [bakkesmod] cvar acplugin_reactivewheels_brightnessmultiplier does not exist?
+[18:05:52] [bakkesmod] > acplugin_reactivewheels_enabled "1"
+[18:05:52] [bakkesmod] cvar acplugin_reactivewheels_enabled does not exist?
+[18:05:52] [bakkesmod] > acplugin_texturedeveloper_enabled "0"
+[18:05:52] [bakkesmod] cvar acplugin_texturedeveloper_enabled does not exist?
+[18:05:52] [bakkesmod] > acplugin_toppertexture_selectedtexture_blue "Default"
+[18:05:52] [bakkesmod] cvar acplugin_toppertexture_selectedtexture_blue does not exist?
+[18:05:52] [bakkesmod] > acplugin_toppertexture_selectedtexture_orange "Default"
+[18:05:52] [bakkesmod] cvar acplugin_toppertexture_selectedtexture_orange does not exist?
+[18:05:52] [bakkesmod] > acplugin_underglow_blue_b "1.0"
+[18:05:52] [bakkesmod] cvar acplugin_underglow_blue_b does not exist?
+[18:05:52] [bakkesmod] > acplugin_underglow_blue_g "0.2"
+[18:05:52] [bakkesmod] cvar acplugin_underglow_blue_g does not exist?
+[18:05:52] [bakkesmod] > acplugin_underglow_blue_r "0.0"
+[18:05:52] [bakkesmod] cvar acplugin_underglow_blue_r does not exist?
+[18:05:52] [bakkesmod] > acplugin_underglow_brightness "20.000000"
+[18:05:52] [bakkesmod] cvar acplugin_underglow_brightness does not exist?
+[18:05:52] [bakkesmod] > acplugin_underglow_enabled "0"
+[18:05:52] [bakkesmod] cvar acplugin_underglow_enabled does not exist?
+[18:05:52] [bakkesmod] > acplugin_underglow_orange_b "0.0"
+[18:05:52] [bakkesmod] cvar acplugin_underglow_orange_b does not exist?
+[18:05:52] [bakkesmod] > acplugin_underglow_orange_g "0.4"
+[18:05:52] [bakkesmod] cvar acplugin_underglow_orange_g does not exist?
+[18:05:52] [bakkesmod] > acplugin_underglow_orange_r "1.0"
+[18:05:52] [bakkesmod] cvar acplugin_underglow_orange_r does not exist?
+[18:05:52] [bakkesmod] > acplugin_underglow_usepaintcolor "1"
+[18:05:52] [bakkesmod] cvar acplugin_underglow_usepaintcolor does not exist?
+[18:05:52] [bakkesmod] > acplugin_version "0.0.0"
+[18:05:52] [bakkesmod] cvar acplugin_version does not exist?
+[18:05:52] [bakkesmod] > acplugin_wheeltexture_selectedtexture_blue "Default"
+[18:05:52] [bakkesmod] cvar acplugin_wheeltexture_selectedtexture_blue does not exist?
+[18:05:52] [bakkesmod] > acplugin_wheeltexture_selectedtexture_orange "Default"
+[18:05:52] [bakkesmod] cvar acplugin_wheeltexture_selectedtexture_orange does not exist?
+[18:05:52] [bakkesmod] > airdrib_boost "(-1.000000, -1.000000)"
+[18:05:52] [bakkesmod] airdrib_boost: 100 -> (-1.000000, -1.000000)
+[18:05:52] [bakkesmod] > airdrib_spin "0"
+[18:05:52] [bakkesmod] airdrib_spin: 0 -> 0
+[18:05:52] [bakkesmod] > airdrib_variance "200"
+[18:05:52] [bakkesmod] airdrib_variance: 200 -> 200
+[18:05:52] [bakkesmod] > alliteration_andy "0"
+[18:05:52] [bakkesmod] alliteration_andy: 0 -> 0
+[18:05:52] [bakkesmod] > bakkesmod_log_instantflush "1"
+[18:05:52] [bakkesmod] cvar bakkesmod_log_instantflush does not exist?
+[18:05:52] [bakkesmod] > bakkesmod_style_alpha "0.75"
+[18:05:52] [bakkesmod] bakkesmod_style_alpha: 0.9 -> 0.75
+[18:05:52] [bakkesmod] > bakkesmod_style_light "0"
+[18:05:52] [bakkesmod] bakkesmod_style_light: 0 -> 0
+[18:05:52] [bakkesmod] > bakkesmod_style_scale "1"
+[18:05:52] [bakkesmod] bakkesmod_style_scale: 1 -> 1
+[18:05:52] [bakkesmod] > bakkesmod_style_theme "visibility.json"
+[18:05:52] [bakkesmod] bakkesmod_style_theme: visibility.json -> visibility.json
+[18:05:52] [bakkesmod] > theme_load "visibility.json"
+[18:05:52] [bakkesmod] Loaded theme visibility.json
+[18:05:52] [bakkesmod] > ballspeed_a "255"
+[18:05:52] [bakkesmod] cvar ballspeed_a does not exist?
+[18:05:52] [bakkesmod] > ballspeed_b "255"
+[18:05:52] [bakkesmod] cvar ballspeed_b does not exist?
+[18:05:52] [bakkesmod] > ballspeed_g "255"
+[18:05:52] [bakkesmod] cvar ballspeed_g does not exist?
+[18:05:52] [bakkesmod] > ballspeed_mph "1"
+[18:05:52] [bakkesmod] cvar ballspeed_mph does not exist?
+[18:05:52] [bakkesmod] > ballspeed_r "255"
+[18:05:52] [bakkesmod] cvar ballspeed_r does not exist?
+[18:05:52] [bakkesmod] > ballspeed_show "0"
+[18:05:52] [bakkesmod] cvar ballspeed_show does not exist?
+[18:05:52] [bakkesmod] > ballspeed_textsize "6.582000"
+[18:05:52] [bakkesmod] cvar ballspeed_textsize does not exist?
+[18:05:52] [bakkesmod] > ballspeed_xpos "0.361000"
+[18:05:52] [bakkesmod] cvar ballspeed_xpos does not exist?
+[18:05:52] [bakkesmod] > ballspeed_ypos "0"
+[18:05:52] [bakkesmod] cvar ballspeed_ypos does not exist?
+[18:05:52] [bakkesmod] > bounceaway_speed "(1100, 1200)"
+[18:05:52] [bakkesmod] bounceaway_speed: (1100, 1200) -> (1100, 1200)
+[18:05:52] [bakkesmod] > bounceto_speed "(850, 950)"
+[18:05:52] [bakkesmod] bounceto_speed: (850, 950) -> (850, 950)
+[18:05:52] [bakkesmod] > cl_alphaboost "0"
+[18:05:52] [bakkesmod] cl_alphaboost: 0 -> 0
+[18:05:52] [bakkesmod] > cl_anonymizer_alwaysshowcars "0"
+[18:05:52] [bakkesmod] cl_anonymizer_alwaysshowcars: 0 -> 0
+[18:05:52] [bakkesmod] > cl_anonymizer_bot "0"
+[18:05:52] [bakkesmod] cl_anonymizer_bot: 0 -> 0
+[18:05:52] [bakkesmod] > cl_anonymizer_hideforfeit "0"
+[18:05:52] [bakkesmod] cl_anonymizer_hideforfeit: 0 -> 0
+[18:05:52] [bakkesmod] > cl_anonymizer_kickoff_quickchat "0"
+[18:05:52] [bakkesmod] cl_anonymizer_kickoff_quickchat: 0 -> 0
+[18:05:52] [bakkesmod] > cl_anonymizer_mode_opponent "0"
+[18:05:52] [bakkesmod] cl_anonymizer_mode_opponent: 0 -> 0
+[18:05:52] [bakkesmod] > cl_anonymizer_mode_party "0"
+[18:05:52] [bakkesmod] cl_anonymizer_mode_party: 0 -> 0
+[18:05:52] [bakkesmod] > cl_anonymizer_mode_team "0"
+[18:05:52] [bakkesmod] cl_anonymizer_mode_team: 0 -> 0
+[18:05:52] [bakkesmod] > cl_anonymizer_scores "0"
+[18:05:52] [bakkesmod] cl_anonymizer_scores: 0 -> 0
+[18:05:52] [bakkesmod] > cl_autoreplayupload_ballchasing "1"
+[18:05:52] [bakkesmod] cl_autoreplayupload_ballchasing: 0 -> 1
+[18:05:52] [bakkesmod] > cl_autoreplayupload_ballchasing_authkey "cdAHCMJq38ds68vlru52qgm07tIsdgaFfpUudglY"
+[18:05:52] [bakkesmod] cl_autoreplayupload_ballchasing_authkey:  -> cdAHCMJq38ds68vlru52qgm07tIsdgaFfpUudglY
+[18:05:52] [bakkesmod] [class AutoReplayUploaderPlugin] Not checking auth key since plugin was loaded recently
+[18:05:52] [bakkesmod] > cl_autoreplayupload_ballchasing_visibility "unlisted"
+[18:05:52] [bakkesmod] cl_autoreplayupload_ballchasing_visibility: public -> unlisted
+[18:05:52] [bakkesmod] > cl_autoreplayupload_calculated "0"
+[18:05:52] [bakkesmod] cl_autoreplayupload_calculated: 0 -> 0
+[18:05:52] [bakkesmod] > cl_autoreplayupload_calculated_visibility "PUBLIC"
+[18:05:52] [bakkesmod] cl_autoreplayupload_calculated_visibility: DEFAULT -> PUBLIC
+[18:05:52] [bakkesmod] > cl_autoreplayupload_filepath "./bakkesmod/data"
+[18:05:52] [bakkesmod] cl_autoreplayupload_filepath: ./bakkesmod/data/ -> ./bakkesmod/data
+[18:05:52] [bakkesmod] > cl_autoreplayupload_notifications "1"
+[18:05:52] [bakkesmod] cl_autoreplayupload_notifications: 1 -> 1
+[18:05:52] [bakkesmod] > cl_autoreplayupload_replaynametemplate "{YEAR}-{MONTH}-{DAY}.{HOUR}.{MIN} {PLAYER} {MODE} {WINLOSS}"
+[18:05:52] [bakkesmod] cl_autoreplayupload_replaynametemplate: {YEAR}-{MONTH}-{DAY}.{HOUR}.{MIN} {PLAYER} {MODE} {WINLOSS} -> {YEAR}-{MONTH}-{DAY}.{HOUR}.{MIN} {PLAYER} {MODE} {WINLOSS}
+[18:05:52] [bakkesmod] > cl_autoreplayupload_replaysequence "0"
+[18:05:52] [bakkesmod] cl_autoreplayupload_replaysequence: 0 -> 0
+[18:05:52] [bakkesmod] > cl_autoreplayupload_save "0"
+[18:05:52] [bakkesmod] cl_autoreplayupload_save: 0 -> 0
+[18:05:52] [bakkesmod] > cl_camera_cliptofield "1"
+[18:05:52] [bakkesmod] cl_camera_cliptofield: 1 -> 1
+[18:05:52] [bakkesmod] > cl_console_buffersize "200"
+[18:05:52] [bakkesmod] cl_console_buffersize: 200 -> 200
+[18:05:52] [bakkesmod] > cl_console_enabled "0"
+[18:05:52] [bakkesmod] cl_console_enabled: 0 -> 0
+[18:05:52] [bakkesmod] > cl_console_height "300"
+[18:05:52] [bakkesmod] cl_console_height: 300 -> 300
+[18:05:52] [bakkesmod] > cl_console_key "Tilde"
+[18:05:52] [bakkesmod] cl_console_key: Tilde -> Tilde
+[18:05:52] [bakkesmod] > cl_console_logkeys "0"
+[18:05:52] [bakkesmod] cl_console_logkeys: 0 -> 0
+[18:05:52] [bakkesmod] > cl_console_suggestions "14"
+[18:05:52] [bakkesmod] cl_console_suggestions: 14 -> 14
+[18:05:52] [bakkesmod] > cl_console_toggleable "0"
+[18:05:52] [bakkesmod] cl_console_toggleable: 1 -> 0
+[18:05:52] [bakkesmod] > cl_console_width "650"
+[18:05:52] [bakkesmod] cl_console_width: 650 -> 650
+[18:05:52] [bakkesmod] > cl_console_x "30"
+[18:05:52] [bakkesmod] cl_console_x: 30 -> 30
+[18:05:52] [bakkesmod] > cl_console_y "30"
+[18:05:52] [bakkesmod] cl_console_y: 30 -> 30
+[18:05:52] [bakkesmod] > cl_demo_autosave "0"
+[18:05:52] [bakkesmod] cl_demo_autosave: 0 -> 0
+[18:05:52] [bakkesmod] > cl_demo_nameplates "1"
+[18:05:52] [bakkesmod] cl_demo_nameplates: 1 -> 1
+[18:05:52] [bakkesmod] > cl_draw_fpsonboot "0"
+[18:05:52] [bakkesmod] cl_draw_fpsonboot: 0 -> 0
+[18:05:52] [bakkesmod] > cl_draw_systemtime "0"
+[18:05:52] [bakkesmod] cl_draw_systemtime: 0 -> 0
+[18:05:52] [bakkesmod] > cl_draw_systemtime_format "%I:%M %p"
+[18:05:52] [bakkesmod] cl_draw_systemtime_format: %H:%M %p -> %I:%M %p
+[18:05:52] [bakkesmod] > cl_freeplay_carcolor "1"
+[18:05:52] [bakkesmod] cl_freeplay_carcolor: 0 -> 1
+[18:05:52] [bakkesmod] > cl_freeplay_stadiumcolors "1"
+[18:05:52] [bakkesmod] cl_freeplay_stadiumcolors: 0 -> 1
+[18:05:52] [bakkesmod] > cl_goalreplay_pov "1"
+[18:05:52] [bakkesmod] cl_goalreplay_pov: 1 -> 1
+[18:05:52] [bakkesmod] > cl_goalreplay_timeout "0.4"
+[18:05:52] [bakkesmod] cl_goalreplay_timeout: 0.4 -> 0.4
+[18:05:52] [bakkesmod] > cl_itemmod_code "Awd4DVyARDBZBItJDBDAyb3E4z+ZXwD+AMr/AA=="
+[18:05:52] [bakkesmod] cl_itemmod_code:  -> Awd4DVyARDBZBItJDBDAyb3E4z+ZXwD+AMr/AA==
+[18:05:52] [bakkesmod] > cl_itemmod_enabled "1"
+[18:05:52] [bakkesmod] cl_itemmod_enabled: 0 -> 1
+[18:05:52] [bakkesmod] > cl_loadout_blue_primary "0.0795848 0.103846 0.901961 -1"
+[18:05:52] [bakkesmod] cl_loadout_blue_primary: -1 -1 -1 -1 -> 0.0795848 0.103846 0.901961 -1
+[18:05:52] [bakkesmod] > cl_loadout_blue_secondary "1 0.99999 0.999995 -1"
+[18:05:52] [bakkesmod] cl_loadout_blue_secondary: -1 -1 -1 -1 -> 1 0.99999 0.999995 -1
+[18:05:52] [bakkesmod] > cl_loadout_color_enabled "0"
+[18:05:52] [bakkesmod] cl_loadout_color_enabled: 0 -> 0
+[18:05:52] [bakkesmod] > cl_loadout_color_same "0"
+[18:05:52] [bakkesmod] cl_loadout_color_same: 0 -> 0
+[18:05:52] [bakkesmod] > cl_loadout_orange_primary "1 0 7.00951e-05 -1"
+[18:05:52] [bakkesmod] cl_loadout_orange_primary: -1 -1 -1 -1 -> 1 0 7.00951e-05 -1
+[18:05:52] [bakkesmod] > cl_loadout_orange_secondary "0.999991 1 0.99999 -1"
+[18:05:52] [bakkesmod] cl_loadout_orange_secondary: -1 -1 -1 -1 -> 0.999991 1 0.99999 -1
+[18:05:52] [bakkesmod] > cl_mainmenu_background "-1"
+[18:05:52] [bakkesmod] cl_mainmenu_background: -1 -> -1
+[18:05:52] [bakkesmod] > cl_notifications_enabled_beta "0"
+[18:05:52] [bakkesmod] cl_notifications_enabled_beta: 0 -> 0
+[18:05:52] [bakkesmod] > cl_notifications_ranked "0"
+[18:05:52] [bakkesmod] cl_notifications_ranked: 0 -> 0
+[18:05:52] [bakkesmod] > cl_online_status_detailed "1"
+[18:05:52] [bakkesmod] cl_online_status_detailed: 1 -> 1
+[18:05:52] [bakkesmod] > cl_online_status_override ""
+[18:05:52] [bakkesmod] cl_online_status_override:  -> 
+[18:05:52] [bakkesmod] > cl_record_fps "30"
+[18:05:52] [bakkesmod] cl_record_fps: 30 -> 30
+[18:05:52] [bakkesmod] > cl_rendering_disabled "0"
+[18:05:52] [bakkesmod] cl_rendering_disabled: 0 -> 0
+[18:05:52] [bakkesmod] > cl_rendering_scaleform_disabled "0"
+[18:05:52] [bakkesmod] cl_rendering_scaleform_disabled: 0 -> 0
+[18:05:52] [bakkesmod] > cl_settings_ignoreminwindowsize "0"
+[18:05:52] [bakkesmod] cvar cl_settings_ignoreminwindowsize does not exist?
+[18:05:52] [bakkesmod] > cl_settings_logrefreshinfo "0"
+[18:05:52] [bakkesmod] cvar cl_settings_logrefreshinfo does not exist?
+[18:05:52] [bakkesmod] > cl_soccar_ballfadein "0"
+[18:05:52] [bakkesmod] cl_soccar_ballfadein: 0 -> 0
+[18:05:52] [bakkesmod] > cl_soccar_boostcounter "0"
+[18:05:52] [bakkesmod] cl_soccar_boostcounter: 1 -> 0
+[18:05:52] [bakkesmod] > cl_soccar_jumphelp "0"
+[18:05:52] [bakkesmod] cl_soccar_jumphelp: 0 -> 0
+[18:05:52] [bakkesmod] > cl_soccar_jumphelp_carcolor "0"
+[18:05:52] [bakkesmod] cl_soccar_jumphelp_carcolor: 1 -> 0
+[18:05:52] [bakkesmod] > cl_training_printjson "0"
+[18:05:52] [bakkesmod] cl_training_printjson: 0 -> 0
+[18:05:52] [bakkesmod] > cl_workshop_freecam "0"
+[18:05:52] [bakkesmod] cl_workshop_freecam: 0 -> 0
+[18:05:52] [bakkesmod] Can't run the comand from here
+[18:05:52] [bakkesmod] > defender_active "0"
+[18:05:52] [bakkesmod] defender_active: 0 -> 0
+[18:05:52] [bakkesmod] > defender_cooldown "(3000, 6000)"
+[18:05:52] [bakkesmod] defender_cooldown: (3000, 6000) -> (3000, 6000)
+[18:05:52] [bakkesmod] > defender_difficulty "8"
+[18:05:52] [bakkesmod] defender_difficulty: 8 -> 8
+[18:05:52] [bakkesmod] > defender_shotspeed "(800, 1100)"
+[18:05:52] [bakkesmod] defender_shotspeed: (800, 1100) -> (800, 1100)
+[18:05:52] [bakkesmod] > dolly_chaikin_degree "0"
+[18:05:52] [bakkesmod] dolly_chaikin_degree: 0 -> 0
+[18:05:52] [bakkesmod] > dolly_interpmode "0"
+[18:05:52] [bakkesmod] dolly_interpmode: 5 -> 0
+[18:05:52] [bakkesmod] dolly_interpmode_location: 5 -> 0
+[18:05:52] [bakkesmod] [class DollyCamPlugin] Now using linear interpolation for camera location.
+[18:05:52] [bakkesmod] dolly_interpmode_rotation: 5 -> 0
+[18:05:52] [bakkesmod] [class DollyCamPlugin] Now using linear interpolation for camera rotation.
+[18:05:52] [bakkesmod] > dolly_interpmode_location "0"
+[18:05:52] [bakkesmod] dolly_interpmode_location: 0 -> 0
+[18:05:52] [bakkesmod] [class DollyCamPlugin] Now using linear interpolation for camera location.
+[18:05:52] [bakkesmod] > dolly_interpmode_rotation "0"
+[18:05:52] [bakkesmod] dolly_interpmode_rotation: 0 -> 0
+[18:05:52] [bakkesmod] [class DollyCamPlugin] Now using linear interpolation for camera rotation.
+[18:05:52] [bakkesmod] > dolly_render "1"
+[18:05:52] [bakkesmod] dolly_render: 1 -> 1
+[18:05:52] [bakkesmod] > dolly_render_frame "1"
+[18:05:52] [bakkesmod] dolly_render_frame: 1 -> 1
+[18:05:52] [bakkesmod] > dolly_spline_acc "1000"
+[18:05:52] [bakkesmod] dolly_spline_acc: 1000 -> 1000
+[18:05:52] [bakkesmod] > forgemode_defaultpreset ""
+[18:05:52] [bakkesmod] cvar forgemode_defaultpreset does not exist?
+[18:05:52] [bakkesmod] > forgemode_enabled "1"
+[18:05:52] [bakkesmod] cvar forgemode_enabled does not exist?
+[18:05:52] [bakkesmod] > gui_quicksettings_rows "5"
+[18:05:52] [bakkesmod] cvar gui_quicksettings_rows does not exist?
+[18:05:52] [bakkesmod] > inputbuffer_reset_automatic "0"
+[18:05:52] [bakkesmod] inputbuffer_reset_automatic: 0 -> 0
+[18:05:52] [bakkesmod] > mech_disable_boost "0"
+[18:05:52] [bakkesmod] mech_disable_boost: 0 -> 0
+[18:05:52] [bakkesmod] > mech_disable_handbrake "0"
+[18:05:52] [bakkesmod] mech_disable_handbrake: 0 -> 0
+[18:05:52] [bakkesmod] > mech_disable_jump "0"
+[18:05:52] [bakkesmod] mech_disable_jump: 0 -> 0
+[18:05:52] [bakkesmod] > mech_enabled "0"
+[18:05:52] [bakkesmod] mech_enabled: 0 -> 0
+[18:05:52] [bakkesmod] > mech_hold_boost "0"
+[18:05:52] [bakkesmod] mech_hold_boost: 0 -> 0
+[18:05:52] [bakkesmod] > mech_hold_roll "0"
+[18:05:52] [bakkesmod] mech_hold_roll: 0 -> 0
+[18:05:52] [bakkesmod] > mech_pitch_limit "1"
+[18:05:52] [bakkesmod] mech_pitch_limit: 1 -> 1
+[18:05:52] [bakkesmod] > mech_roll_limit "1"
+[18:05:52] [bakkesmod] mech_roll_limit: 1 -> 1
+[18:05:52] [bakkesmod] > mech_steer_limit "1"
+[18:05:52] [bakkesmod] mech_steer_limit: 1 -> 1
+[18:05:52] [bakkesmod] > mech_throttle_limit "1"
+[18:05:52] [bakkesmod] mech_throttle_limit: 1 -> 1
+[18:05:52] [bakkesmod] > mech_yaw_limit "1"
+[18:05:52] [bakkesmod] mech_yaw_limit: 1 -> 1
+[18:05:52] [bakkesmod] > mp_ip "25.113.251.22"
+[18:05:52] [bakkesmod] mp_ip: 127.0.0.1 -> 25.113.251.22
+[18:05:52] [bakkesmod] > mp_port "7777"
+[18:05:52] [bakkesmod] mp_port: 7777 -> 7777
+[18:05:52] [bakkesmod] > queuemenu_close_joining "1"
+[18:05:52] [bakkesmod] queuemenu_close_joining: 1 -> 1
+[18:05:52] [bakkesmod] > queuemenu_open_mainmenu "0"
+[18:05:52] [bakkesmod] queuemenu_open_mainmenu: 0 -> 0
+[18:05:52] [bakkesmod] > queuemenu_open_match_ended "0"
+[18:05:52] [bakkesmod] queuemenu_open_match_ended: 0 -> 0
+[18:05:52] [bakkesmod] > ranked_aprilfools "0"
+[18:05:52] [bakkesmod] ranked_aprilfools: 0 -> 0
+[18:05:52] [bakkesmod] > ranked_autogg "1"
+[18:05:52] [bakkesmod] ranked_autogg: 1 -> 1
+[18:05:52] [bakkesmod] > ranked_autogg_delay "(250, 2500)"
+[18:05:52] [bakkesmod] ranked_autogg_delay: (250, 1200) -> (250, 2500)
+[18:05:52] [bakkesmod] > ranked_autogg_id "0"
+[18:05:52] [bakkesmod] ranked_autogg_id: 0 -> 0
+[18:05:52] [bakkesmod] > ranked_autoqueue "0"
+[18:05:52] [bakkesmod] ranked_autoqueue: 0 -> 0
+[18:05:52] [bakkesmod] > ranked_autosavereplay "0"
+[18:05:52] [bakkesmod] ranked_autosavereplay: 0 -> 0
+[18:05:52] [bakkesmod] > ranked_autosavereplay_all "0"
+[18:05:52] [bakkesmod] ranked_autosavereplay_all: 0 -> 0
+[18:05:52] [bakkesmod] > ranked_disableranks "0"
+[18:05:52] [bakkesmod] ranked_disableranks: 0 -> 0
+[18:05:52] [bakkesmod] > ranked_disregardplacements "0"
+[18:05:52] [bakkesmod] ranked_disregardplacements: 0 -> 0
+[18:05:52] [bakkesmod] > ranked_showranks "0"
+[18:05:52] [bakkesmod] ranked_showranks: 0 -> 0
+[18:05:52] [bakkesmod] > ranked_showranks_gameover "0"
+[18:05:52] [bakkesmod] ranked_showranks_gameover: 0 -> 0
+[18:05:52] [bakkesmod] > ranked_showranks_menu "1"
+[18:05:52] [bakkesmod] ranked_showranks_menu: 1 -> 1
+[18:05:52] [bakkesmod] > rcon_log "0"
+[18:05:52] [bakkesmod] rcon_log: 0 -> 0
+[18:05:52] [bakkesmod] > rcon_password "password"
+[18:05:52] [bakkesmod] rcon_password: password -> password
+[18:05:52] [bakkesmod] > rcon_port "9002"
+[18:05:52] [bakkesmod] rcon_port: 9002 -> 9002
+[18:05:52] [bakkesmod] > rcon_timeout "5"
+[18:05:52] [bakkesmod] rcon_timeout: 5 -> 5
+[18:05:52] [bakkesmod] > rebound_addedheight "(300, 1400)"
+[18:05:52] [bakkesmod] rebound_addedheight: (300, 1400) -> (300, 1400)
+[18:05:52] [bakkesmod] > rebound_addedspin "(-6.000000, 6.000000)"
+[18:05:52] [bakkesmod] rebound_addedspin: (-6, 6) -> (-6.000000, 6.000000)
+[18:05:52] [bakkesmod] > rebound_resetspin "0"
+[18:05:52] [bakkesmod] rebound_resetspin: 0 -> 0
+[18:05:52] [bakkesmod] > rebound_shotspeed "(776.000000, 1128.000000)"
+[18:05:52] [bakkesmod] rebound_shotspeed: 780 -> (776.000000, 1128.000000)
+[18:05:52] [bakkesmod] > rebound_side_offset "(0.000000, 652.000000)"
+[18:05:52] [bakkesmod] rebound_side_offset: (0, 500) -> (0.000000, 652.000000)
+[18:05:52] [bakkesmod] > record "0"
+[18:05:52] [bakkesmod] record: 0 -> 0
+[18:05:52] [bakkesmod] > recovery_bumpspeed_angular "(-6.000000, 6.000000)"
+[18:05:52] [bakkesmod] recovery_bumpspeed_angular: (0, 6) -> (-6.000000, 6.000000)
+[18:05:52] [bakkesmod] > recovery_bumpspeed_linear "(800, 1100)"
+[18:05:52] [bakkesmod] recovery_bumpspeed_linear: (800, 1100) -> (800, 1100)
+[18:05:52] [bakkesmod] > recovery_bumpspeed_linear_z "(400, 700)"
+[18:05:52] [bakkesmod] recovery_bumpspeed_linear_z: (400, 700) -> (400, 700)
+[18:05:52] [bakkesmod] > recovery_cooldown "(3000, 6000)"
+[18:05:52] [bakkesmod] recovery_cooldown: (3000, 6000) -> (3000, 6000)
+[18:05:52] [bakkesmod] > redirect_on_ground "0"
+[18:05:52] [bakkesmod] redirect_on_ground: 0 -> 0
+[18:05:52] [bakkesmod] > redirect_pass_offset "50"
+[18:05:52] [bakkesmod] redirect_pass_offset: (-50, 50) -> 50
+[18:05:52] [bakkesmod] > redirect_pass_offset_z "200"
+[18:05:52] [bakkesmod] redirect_pass_offset_z: 200 -> 200
+[18:05:52] [bakkesmod] > redirect_pass_predict "1"
+[18:05:52] [bakkesmod] redirect_pass_predict: 1 -> 1
+[18:05:52] [bakkesmod] > redirect_predict_multiplier_x "2"
+[18:05:52] [bakkesmod] redirect_predict_multiplier_x: 2 -> 2
+[18:05:52] [bakkesmod] > redirect_predict_multiplier_y "2"
+[18:05:52] [bakkesmod] redirect_predict_multiplier_y: 2 -> 2
+[18:05:52] [bakkesmod] > redirect_shot_speed "(850, 1100)"
+[18:05:52] [bakkesmod] redirect_shot_speed: (850, 1100) -> (850, 1100)
+[18:05:52] [bakkesmod] > rollaway_speed "(1550, 1650)"
+[18:05:52] [bakkesmod] rollaway_speed: (1550, 1650) -> (1550, 1650)
+[18:05:52] [bakkesmod] > rollto_speed "(800, 1000)"
+[18:05:52] [bakkesmod] rollto_speed: (800, 1000) -> (800, 1000)
+[18:05:52] [bakkesmod] > rp_custom_path "../../TAGame/CookedPCConsole/mods"
+[18:05:52] [bakkesmod] rp_custom_path: ../../TAGame/CookedPCConsole/mods -> ../../TAGame/CookedPCConsole/mods
+[18:05:52] [bakkesmod] > rp_gui_keybind "Home"
+[18:05:52] [bakkesmod] rp_gui_keybind: Home -> Home
